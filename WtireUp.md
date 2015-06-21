@@ -5,13 +5,14 @@ load both training and test data downloading from web
 training:60%, testing: 40%
 ## Creat mode for this question
 Here, I use 3 models
-*random forest
-*boosted trees 
-*linear discriminant analysis 
+* random forest
+* boosted trees 
+* linear discriminant analysis 
 ##accuracy from each model
-*random forest: 98%
-*boosted trees:96%
-*linear discriminant analysis:69%
+* random forest: 98%
+* boosted trees:96%
+* linear discriminant analysis:69%
+
 Based on the performance, we choose random forest for further testing and prediction.
 ## 10 cross validation
 Use 10 cross validation to increase the accuracy of random forest. I get around 99% accuracy.
