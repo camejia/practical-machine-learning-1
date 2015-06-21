@@ -8,7 +8,8 @@ Here, I use 3 models
 * random forest
 * boosted trees 
 * linear discriminant analysis 
-##accuracy from each model
+
+##  accuracy from each model
 * random forest: 98%
 * boosted trees:96%
 * linear discriminant analysis:69%
